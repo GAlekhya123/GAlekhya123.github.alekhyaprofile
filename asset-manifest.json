@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/alekhyaprofile/static/css/main.4d7ad4fd.chunk.css",
+    "main.js": "/alekhyaprofile/static/js/main.6b398118.chunk.js",
+    "main.js.map": "/alekhyaprofile/static/js/main.6b398118.chunk.js.map",
+    "runtime-main.js": "/alekhyaprofile/static/js/runtime-main.a9735d6e.js",
+    "runtime-main.js.map": "/alekhyaprofile/static/js/runtime-main.a9735d6e.js.map",
+    "static/js/2.729f334c.chunk.js": "/alekhyaprofile/static/js/2.729f334c.chunk.js",
+    "static/js/2.729f334c.chunk.js.map": "/alekhyaprofile/static/js/2.729f334c.chunk.js.map",
+    "index.html": "/alekhyaprofile/index.html",
+    "precache-manifest.784b130cbf4b577ac836b90183681cd2.js": "/alekhyaprofile/precache-manifest.784b130cbf4b577ac836b90183681cd2.js",
+    "service-worker.js": "/alekhyaprofile/service-worker.js",
+    "static/css/main.4d7ad4fd.chunk.css.map": "/alekhyaprofile/static/css/main.4d7ad4fd.chunk.css.map",
+    "static/js/2.729f334c.chunk.js.LICENSE.txt": "/alekhyaprofile/static/js/2.729f334c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9735d6e.js",
+    "static/js/2.729f334c.chunk.js",
+    "static/css/main.4d7ad4fd.chunk.css",
+    "static/js/main.6b398118.chunk.js"
+  ]
+}
